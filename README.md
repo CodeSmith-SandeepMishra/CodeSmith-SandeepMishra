@@ -1,16 +1,39 @@
-## Hi there 👋
+# Sandeep Kumar Mishra
 
-<!--
-**CodeSmith-SandeepMishra/CodeSmith-SandeepMishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python • SQL • Data Analytics • Power BI
 
-Here are some ideas to get you started:
+MCA Student focused on building practical analytics and development projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+* SQL Mastery
+* Data Analytics Projects
+* Power BI Dashboards
+* Python Automation
+* Full Project Documentation
+
+## Tech Stack
+
+* Python
+* SQL
+* JavaScript
+* Java
+* HTML/CSS
+* Power BI
+* PostgreSQL
+* MySQL
+
+## Featured Projects
+
+Projects coming soon...
+
+## Goals
+
+* Build production-style portfolio projects
+* Become Job-ready
+* Improve problem-solving and analytics skills
+
+## Contact
+
+* Email: [sandeepkrmishra.dev@gmail.com](mailto:sandeepkrmishra.dev@gmail.com)
+* GitHub: github.com/CodeSmith-SandeepMishra
